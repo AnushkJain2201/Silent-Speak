@@ -5,9 +5,6 @@ function App() {
 
         <div className="h-screen bg-[#ffeded]">
             <Header />
-
-            
-
         </div>
 	);
 }
